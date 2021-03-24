@@ -1,0 +1,18 @@
+.alignright_td{
+    text-align: right;
+}
+
+.aligncenter {
+    text-align: center;
+}
+
+.alignright{
+    text-align: right;
+    margin-right: 20px;
+}
+
+form{
+    margin: auto;
+    width: fit-content;
+    margin-right: 44%;
+}
